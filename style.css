@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(238, 134, 238, 0.782);
+}
+
+.call_me{
+    background-color: aqua;
+}
+.view_cv{
+    background-color: blueviolet;
+}
+.past_work{
+    background-color: coral;
+}
+#intro{
+    background-color: tomato;
+}
+ul .keen_eye{
+    background-color: darkmagenta;
+}
+.here, .five {
+    background-color: rgb(48, 203, 48);
+}
+li.deliver{
+    background-color: antiquewhite;
+}
